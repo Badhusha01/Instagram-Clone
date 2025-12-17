@@ -106,7 +106,7 @@
       "id": "102",
       "username": "fun_minds",
       "fullName": "Sneha Rao",
-      "avatar": "/db/assets/storyimg2.jpeg",
+      "avatar": "/assets/storyimg2.jpeg",
       "bio": "Travel • Photography • Nature"
     },
     {
@@ -120,7 +120,7 @@
       "id": "105",
       "username": "game_master",
       "fullName": "Anita Singh",
-      "avatar": "db/assets/dp_pic.jpeg",
+      "avatar": "/assets/dp_pic.jpeg",
       "bio": "Travel • Photography • Nature"
     },
     {
@@ -134,21 +134,21 @@
       "id": "106",
       "username": "jack_david",
       "fullName": "Anita Singh",
-      "avatar": "/db/assets/storyimg3.jpeg",
+      "avatar": "/assets/storyimg3.jpeg",
       "bio": "Travel • Photography • Nature"
     },
     {
       "id": "107",
       "username": "tony_talks",
       "fullName": "Anita Singh",
-      "avatar": "db/assets/dp_pic2.jpeg",
+      "avatar": "/assets/dp_pic2.jpeg",
       "bio": "Travel • Photography • Nature"
     },
     {
       "id": "108",
       "username": "furious_fighter",
       "fullName": "Anita Singh",
-      "avatar": "/db/assets/storyimg4.jpeg",
+      "avatar": "/assets/storyimg4.jpeg",
       "bio": "Travel • Photography • Nature"
     },
     {
@@ -187,7 +187,7 @@
         "username": "james_capture",
         "fullName": "Sneha Rao",
         "avatar": "db/assets/150 (1).jpeg",
-        "dp": "db/assets/dp_pic2.jpeg"
+        "dp": "/assets/dp_pic2.jpeg"
       }
     },
     {
@@ -207,7 +207,7 @@
         "username": "day_with_dyne",
         "fullName": "Dyne Mark",
         "avatar": "db/assets/150 (2).jpeg",
-        "dp": "db/assets/dp_pic1.jpeg"
+        "dp": "/assets/dp_pic1.jpeg"
       }
     },
     {
@@ -217,7 +217,7 @@
         "username": "alone_kid",
         "fullName": "Karthik Iyer",
         "avatar": "db/assets/150.jpeg",
-        "dp": "db/assets/dp_pic3.jpg"
+        "dp": "/assets/dp_pic3.jpg"
       }
     },
     {
