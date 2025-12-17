@@ -1,0 +1,258 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "caption": "Exploring new tech everyday 🤖✨",
+      "imageUrl": "/assets/237-600x600.jpg",
+      "likes": 120,
+      "isLiked": false,
+      "user": {
+        "id": 101,
+        "username": "tech_guy",
+        "fullName": "Arun Kumar",
+        "avatar": "/assets/150.jpeg",
+        "bio": "Tech enthusiast | Web dev"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "username": "coder_girl",
+          "comment": "Wow amazing!"
+        },
+        {
+          "id": 2,
+          "username": "john_doe",
+          "comment": "Keep it up 🔥"
+        }
+      ],
+      "createdAt": "2025-01-10T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "caption": "Beautiful sunset at the beach 🌅",
+      "imageUrl": "/assets/1025-600x600.jpg",
+      "likes": 245,
+      "isLiked": true,
+      "user": {
+        "id": 102,
+        "username": "travel_with_me",
+        "fullName": "Sneha Rao",
+        "avatar": "/assets/150 (1).jpeg",
+        "bio": "Travel • Photography • Nature"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "username": "nature_lover",
+          "comment": "Wowww!! 😍"
+        }
+      ],
+      "createdAt": "2025-01-11T08:12:00Z"
+    },
+    {
+      "id": "3",
+      "caption": "Tried a new dish today! 🍝🔥",
+      "imageUrl": "/assets/1080-600x600.jpg",
+      "likes": 89,
+      "isLiked": false,
+      "user": {
+        "id": 103,
+        "username": "foodie_24",
+        "fullName": "Rahul Menon",
+        "avatar": "/assets/150 (2).jpeg",
+        "bio": "Food lover & home chef"
+      },
+      "comments": [],
+      "createdAt": "2025-01-11T15:45:00Z"
+    },
+    {
+      "id": "4",
+      "caption": "Push. Pull. Legs. Repeat. 💪",
+      "imageUrl": "/assets/1058-600x600.jpg",
+      "likes": 300,
+      "isLiked": false,
+      "user": {
+        "id": 104,
+        "username": "crazy_girl",
+        "fullName": "Karthik Iyer",
+        "avatar": "/assets/150 (3).jpeg",
+        "bio": "Fitness is life 💪🔥"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "username": "motivated_mind",
+          "comment": "Beast mode 🔥"
+        },
+        {
+          "id": 2,
+          "username": "strength_build",
+          "comment": "Inspirational!"
+        }
+      ],
+      "createdAt": "2025-01-12T09:22:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "tech_guy",
+    "fullName": "Arun Kumar",
+    "avatar": "/assets/150.jpeg",
+    "bio": "Tech enthusiast | Web dev",
+    "profile_avatar": "/assets/150.jpegi"
+  },
+  "suggestions": [
+    {
+      "id": "102",
+      "username": "fun_minds",
+      "fullName": "Sneha Rao",
+      "avatar": "/db/assets/storyimg2.jpeg",
+      "bio": "Travel • Photography • Nature"
+    },
+    {
+      "id": "103",
+      "username": "foodie_24",
+      "fullName": "Rahul Menon",
+      "avatar": "/assets/150 (2).jpeg",
+      "bio": "Food lover & home chef"
+    },
+    {
+      "id": "105",
+      "username": "game_master",
+      "fullName": "Anita Singh",
+      "avatar": "db/assets/dp_pic.jpeg",
+      "bio": "Travel • Photography • Nature"
+    },
+    {
+      "id": "104",
+      "username": "gym_freak",
+      "fullName": "Karthik Iyer",
+      "avatar": "/assets/150 (3).jpeg",
+      "bio": "Fitness is life 💪🔥"
+    },
+    {
+      "id": "106",
+      "username": "jack_david",
+      "fullName": "Anita Singh",
+      "avatar": "/db/assets/storyimg3.jpeg",
+      "bio": "Travel • Photography • Nature"
+    },
+    {
+      "id": "107",
+      "username": "tony_talks",
+      "fullName": "Anita Singh",
+      "avatar": "db/assets/dp_pic2.jpeg",
+      "bio": "Travel • Photography • Nature"
+    },
+    {
+      "id": "108",
+      "username": "furious_fighter",
+      "fullName": "Anita Singh",
+      "avatar": "/db/assets/storyimg4.jpeg",
+      "bio": "Travel • Photography • Nature"
+    },
+    {
+      "id": "101",
+      "username": "tech_guy",
+      "fullName": "Arun Kumar",
+      "avatar": "/assets/150.jpeg",
+      "bio": "Tech enthusiast | Web dev"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "storyImage": "/db/assets/storyimg1.jpeg",
+      "user": {
+        "username": "rocking_guy",
+        "fullName": "Arun Kumar",
+        "avatar": "db/assets/150 (3).jpeg",
+        "dp": "db/assets/dp_pic.jpeg"
+      }
+    },
+    {
+      "id": "2",
+      "storyImage": "/assets/1025-600x600.jpg",
+      "user": {
+        "username": "foodie_24",
+        "fullName": "Arun Kumar",
+        "avatar": "db/assets/150 (3).jpeg",
+        "dp": "/assets/150 (2).jpeg"
+      }
+    },
+    {
+      "id": "3",
+      "storyImage": "/db/assets/storyimg2.jpeg",
+      "user": {
+        "username": "james_capture",
+        "fullName": "Sneha Rao",
+        "avatar": "db/assets/150 (1).jpeg",
+        "dp": "db/assets/dp_pic2.jpeg"
+      }
+    },
+    {
+      "id": "4",
+      "storyImage": "/assets/237-600x600.jpg",
+      "user": {
+        "username": "travel_with_me",
+        "fullName": "Arun Kumar",
+        "avatar": "db/assets/150 (3).jpeg",
+        "dp": "/assets/150 (1).jpeg"
+      }
+    },
+    {
+      "id": "5",
+      "storyImage": "/db/assets/storyimg4.jpeg",
+      "user": {
+        "username": "day_with_dyne",
+        "fullName": "Dyne Mark",
+        "avatar": "db/assets/150 (2).jpeg",
+        "dp": "db/assets/dp_pic1.jpeg"
+      }
+    },
+    {
+      "id": "6",
+      "storyImage": "/db/assets/storyimg3.jpeg",
+      "user": {
+        "username": "alone_kid",
+        "fullName": "Karthik Iyer",
+        "avatar": "db/assets/150.jpeg",
+        "dp": "db/assets/dp_pic3.jpg"
+      }
+    },
+    {
+      "id": "7",
+      "storyImage": "/assets/1080-600x600.jpg",
+      "user": {
+        "username": "crazy_girl",
+        "fullName": "Arun Kumar",
+        "avatar": "db/assets/150 (3).jpeg",
+        "dp": "/assets/150 (3).jpeg"
+      }
+    },
+    {
+      "id": "8",
+      "storyImage": "/assets/237-600x600.jpg",
+      "user": {
+        "username": "tech_guy",
+        "fullName": "Arun Kumar",
+        "avatar": "db/assets/150 (3).jpeg",
+        "dp": "/assets/150.jpeg"
+      }
+    }
+  ],
+  "followers": [
+    {
+      "id": "102",
+      "username": "travel_with_me"
+    },
+    {
+      "id": "101",
+      "username": "tech_guy"
+    },
+    {
+      "id": "102",
+      "username": "fun_minds"
+    }
+  ]
+}
